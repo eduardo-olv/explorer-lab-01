@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-<a href=https://explorer-lab-cartao-lilac.vercel.app>Link do projeto finalizado</a>
+<a href=https://explorer-lab-cartao-lilac.vercel.app target="_blank">Link do projeto finalizado</a>
 </p>
 
 <p align="center">
